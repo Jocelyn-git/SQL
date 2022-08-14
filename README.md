@@ -3,4 +3,4 @@
     a.AML報表系統-主管機關發布疑似洗錢或資恐交易態樣。
     (Reference: https://www.aml-ba.org.tw/regulations.php?sn=24  
     https://drive.google.com/file/d/1ZCPjNRtuD7SYoVtJqoutw2kr2S9YxL3J/view)  
-    b.詳見File "AML"
+    b.詳見File "AML"(僅列部分)
